@@ -1,0 +1,10 @@
+title       = "fedreg"
+baseURL     = "https://federalregister-cli.tamnd.com/"
+description = "Federal Register — search US government documents and regulations"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/federalregister-cli"
